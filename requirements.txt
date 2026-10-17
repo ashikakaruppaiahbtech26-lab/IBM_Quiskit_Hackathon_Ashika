@@ -1,0 +1,7 @@
+qiskit>=2.0
+qiskit-aer>=0.17
+numpy
+matplotlib
+pylatexenc
+pytest
+jupyter

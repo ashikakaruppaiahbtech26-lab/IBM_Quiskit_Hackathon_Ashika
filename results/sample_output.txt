@@ -1,0 +1,12 @@
+BB84 results -- Qiskit Aer SIMULATOR (not real quantum hardware)
+qubits sent: 1000 | seed: 42 | measurement noise: 0.0
+
+No Eve  : sifted key length =  501, error rate =  0.00%
+With Eve: sifted key length =  501, error rate = 25.35%  (theory ~25%)
+
+First 20 sifted bits (No Eve):
+  Alice: 00011110101110001110
+  Bob  : 00011110101110001110
+First 20 sifted bits (With Eve):
+  Alice: 00011110101110001110
+  Bob  : 00101110000110011011
